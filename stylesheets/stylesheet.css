@@ -449,6 +449,7 @@ footer a:hover {
   aside#sidebar {
     float: none;
     width: 100% ! important;
+	font-size: 30px;
   }
   aside#sidebar {
     background-image: none;
