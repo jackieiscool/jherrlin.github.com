@@ -56,6 +56,15 @@ body {
   color: #666;
 }
 
+p.about {
+	border-width: 5px;
+	border-style: outset;
+	text-align: left;
+	margin: 5px;
+	padding: 5px;
+	float: left;
+}
+
 a {
   color: #2879d0;
 }
